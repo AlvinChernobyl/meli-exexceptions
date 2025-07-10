@@ -1,8 +1,5 @@
 package com.meli_exexceptions;
 
-import static com.meli_exexceptions.AplicationExMeli.metodo1;
-import static com.meli_exexceptions.AplicationExMeli.metodo2;
-
 public class NaoVerificada {
 
     public static void main(String[] args) {
